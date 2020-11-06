@@ -62,6 +62,36 @@ public class MainActivity extends AppCompatActivity {
                 "https://cdn.jkanime.net/assets/images/animes/image/rezero-kara-hajimeru-isekai-seikatsu-2nd-season.jpg",
                 false
         ));
+        animeClasses.add(new AnimeClass(
+                "SWORD ART ONLINE",
+                "Segunda temporada de Sword Art Online: Alicization - War of Underworld.",
+                "https://cdn.jkanime.net/assets/images/animes/image/sword-art-online-alicization-war-of-underworld-2nd-season.jpg",
+                false
+        ));
+        animeClasses.add(new AnimeClass(
+                "UZAKI-CHAN WA ASOBITAI!",
+                " El único deseo de Sakurai Shinichi es un poco de paz y tranquilidad. Pero Uzaki Hana, su bullicioso y bien dotado estudiante de secundaria, tiene otros planes.",
+                "https://cdn.jkanime.net/assets/images/animes/image/uzaki-chan-wa-asobitai.jpg",
+                false
+        ));
+        animeClasses.add(new AnimeClass(
+                "BLACK CLOVER (TV)",
+                "Hay un mundo en donde la magia lo es todo. Asta y Yuno crecieron en una iglesia, y el día que cumplieron 15 años participaron en una ceremonia en donde les concedieron grimores los cuales despiertan los poderes mágicos innatos.",
+                "https://cdn.jkanime.net/assets/images/animes/image/black-clover-tv.jpg",
+                false
+        ));
+        animeClasses.add(new AnimeClass(
+                "THE GOD OF HIGH SCHOOL",
+                "Jin Mori se ha autoproclamado como el estudiante de preparatoria más fuerte del mundo, pero su vida cambia por completo cuando lo invitan a participar en el \"God of High School\", un torneo en el que se decidirá el estudiante más fuerte de todos.",
+                "https://cdn.jkanime.net/assets/images/animes/image/the-god-of-high-school.jpg",
+                false
+        ));
+        animeClasses.add(new AnimeClass(
+                "KIMETSU NO YAIBA",
+                "Estamos en la era Taisho de Japón. Tanjiro, un joven que se gana la vida vendiendo carbón, descubre un día que su familia ha sido asesinada por un demonio.",
+                "https://cdn.jkanime.net/assets/images/animes/image/kimetsu-no-yaiba.jpg",
+                false
+        ));
 
         return animeClasses;
     }
